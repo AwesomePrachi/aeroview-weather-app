@@ -8,7 +8,7 @@ Built using **Vanilla JavaScript + TailwindCSS**, this project demonstrates API 
 
 ## 🚀 Live Demo
 
-🔗 https://aeroview.vercel.app/
+🔗 https://aeroview-weather.vercel.app/
 
 ---
 
